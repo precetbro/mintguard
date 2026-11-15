@@ -7,6 +7,8 @@ whether the source is verified on Sourcify, and what basic on-chain probes
 report. It never connects a wallet, never signs, and never sends a
 transaction.
 
+**Live demo (the same checks, running in your browser):** https://muse.ai/s/mintguard-wallet-screening-agent-xbr6xso0xqepf9/KQ_Dm19Wpc1gv6UryGMIieG3BcrrLLBxtg3VvMllmpc
+
 This demo service is the public face of a screening workflow that is already
 used in practice to vet free-mint and claim links for an agentic wallet:
 check first, verify on-chain, and only then let a human decide.
